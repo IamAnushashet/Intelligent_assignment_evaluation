@@ -1,0 +1,9 @@
+streamlit>=1.50
+pytesseract
+opencv-python-headless
+Pillow
+pandas
+scikit-learn
+nltk
+# optional alternative OCR engine (selectable in the sidebar once installed):
+# easyocr
